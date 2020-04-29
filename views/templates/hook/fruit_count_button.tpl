@@ -1,0 +1,1 @@
+<li><a href="{$fruit_count_link}" title="{l s='Fruit counting'}"><i class="icon-food"></i><span>{l s='Fruit counting page'}</span></a></li>

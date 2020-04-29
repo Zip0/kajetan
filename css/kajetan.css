@@ -1,0 +1,4 @@
+body#left_column {
+    display:none;
+    color: red !important;
+}
